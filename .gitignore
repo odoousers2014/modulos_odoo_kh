@@ -1,0 +1,3 @@
+#Ignorando todos los *.pyc
+*.pyc
+res_partner_extend/* 
